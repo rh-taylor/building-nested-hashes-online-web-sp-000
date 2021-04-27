@@ -13,6 +13,4 @@ def second_challenge
       :herione_friends = []
       }
   }
-
-  
 end
